@@ -1,0 +1,15 @@
+{
+  "short_name": "وکیل",
+  "name": "اپلیکیشن مدیریت پرونده‌های وکیل",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
